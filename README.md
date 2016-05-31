@@ -1,5 +1,6 @@
 # GreenCode-Hackaton
-Raspberry Pi receives a continuous UDP packets, process and modifies them, and sends everything on a server which has to evaluate the data
+The 3rd Green Code Lab Challenge took place from December 2nd to 4th, 2015. It held more than 400 students and 25 professionals to compete in essential topic in the digitalization of our economy, namely eco-design software. Objective is given and the teams have 48 hours to develop software from scratch and optimize the process of communication between a connected Raspberry Pi and a server. The “Team 7” composed of Dimitar Minovski, Melanie Pittumbur, Emil Hedemalm and Valentin Poriot finished on the 5th overall place out of 70 teams. More information about the evaluation and the objective can be found down below. The final results can be seen on the pdf: https://github.com/dimcey/GreenCode-Hackaton-2015/blob/master/Final%20results.pdf
+
 
 # The challenge and the evaluation
 The subject for this year’s Green Code Lab Challenge was in the IoT domain, as there is huge expansion of the pervasive computing field and the number of connected devices in our everyday life is expected to have exponential growth. Therefore, an essential part of the development of such products is the optimization, mainly in order to minimize their impact on the energy consumption and data transmission, or with other words to make them as sustainable as possible. 
